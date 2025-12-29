@@ -26,7 +26,6 @@ entre équipes métiers et techniques.
 - **Tableau Desktop** (certifié Tableau Specialist)
 - Python & SQL
 - Outils de data visualisation & reporting
-- Méthodologies projet : Agile, CRISP-DM
 
 ---
 
