@@ -63,5 +63,5 @@ Vous trouverez ici des projets illustrant :
 ---
 
 ### 📫 Me contacter
-- LinkedIn : [lien]
-- Email : [email]
+- LinkedIn : [[lien](https://www.linkedin.com/in/yann-amer-messaoud-238b0b208/)]
+- Email : [yann.amermessaoud@outlook.fr]
