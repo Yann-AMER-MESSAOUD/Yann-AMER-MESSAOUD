@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis [Prénom Nom]
+# 👋 Bonjour, je suis [Yann AMER MESSAOUD]
 
 🎯 Data Analyst – Profil hybride métier, data & statistiques  
 📊 Expertise décisionnelle, analyse avancée et posture de conseil
